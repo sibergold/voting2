@@ -1,0 +1,15 @@
+C:\Users\OSMAN\voting2\bin\Debug\net6.0\voting2.exe
+C:\Users\OSMAN\voting2\bin\Debug\net6.0\voting2.deps.json
+C:\Users\OSMAN\voting2\bin\Debug\net6.0\voting2.runtimeconfig.json
+C:\Users\OSMAN\voting2\bin\Debug\net6.0\voting2.dll
+C:\Users\OSMAN\voting2\bin\Debug\net6.0\voting2.pdb
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\voting2.csproj.AssemblyReference.cache
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\voting2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\voting2.AssemblyInfoInputs.cache
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\voting2.AssemblyInfo.cs
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\voting2.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\voting2.dll
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\refint\voting2.dll
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\voting2.pdb
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\voting2.genruntimeconfig.cache
+C:\Users\OSMAN\voting2\obj\Debug\net6.0\ref\voting2.dll
